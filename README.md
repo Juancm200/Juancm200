@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](readme_header.png)
+![Header](readme_header.png)
 
-# Hello ! <img src="wave.gif" width="30px" height="30px" />
+# Hello !! <img src="wave.gif" width="30px" height="30px" />
 
 My name is Juan Camilo Marulanda and I'm a software developer/DevOps engineer. I'm from Colombia. You can find me on [![LinkedIn][3.2]][3].
 
